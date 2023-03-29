@@ -385,3 +385,7 @@ height: 400px;
 .flickity-page-dots{
     display: none;
 }
+
+.w-dyn-empty{
+display:none;
+}
